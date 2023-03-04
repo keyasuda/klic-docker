@@ -1,0 +1,9 @@
+diff --git a/vendor/klic-3.013/runtime/config/shm/lock.s b/vendor/klic-3.013/runtime/config/shm/lock.s
+index 72cf063..d10b9b7 120000
+--- a/vendor/klic-3.013/runtime/config/shm/lock.s
++++ b/vendor/klic-3.013/runtime/config/shm/lock.s
+@@ -1 +1 @@
+-/home/ueda/klic/klic-3.013/runtime/config/shm/INTEL/lock.s
+\ No newline at end of file
++/vendor/klic-3.013/runtime/config/shm/INTEL/lock.s
+\ No newline at end of file
