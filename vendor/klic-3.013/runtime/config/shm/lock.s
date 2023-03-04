@@ -1,1 +1,1 @@
-/home/ueda/klic/klic-3.013/runtime/config/shm/INTEL/lock.s
+./INTEL/lock.s
