@@ -1,1 +1,0 @@
-config/shm/distproc.c

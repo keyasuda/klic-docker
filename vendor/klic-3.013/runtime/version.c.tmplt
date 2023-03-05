@@ -1,2 +1,0 @@
-char *runtime_version = "##VERSION";
-char *runtime_date = "##DATE";
